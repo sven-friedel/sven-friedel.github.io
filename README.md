@@ -38,4 +38,5 @@ This portfolio is a work in progress. My goals are:
 
 Want to connect or collaborate?
 
-- LinkedIn: [LinkedIn](https://linkedin.com/in/sven-friedel-スヴェン-9b7357183/)
+- [LinkedIn](https://linkedin.com/in/sven-friedel-スヴェン-9b7357183/)
+- [Kaggle](https://www.kaggle.com/svenfriedel)
