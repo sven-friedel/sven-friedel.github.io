@@ -1,12 +1,12 @@
 # 📊 Data Analyst Portfolio – Sven Friedel
 
-Welcome! This portfolio bundles my projects build on diffrent stacks and platforms into one single place.
+Welcome! This repository bundles my data projects build on diffrent stacks and platforms into one github page.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a data analyst from Germany with a background in IT Consutling & Strategy Consulting, currently working in Tokyo.
+I'm a data analyst from Germany with a background in IT & Strategy Consulting, currently working in Tokyo.
 I specialize in making sense of data, turning large and often messy data sets into clear and actionable insights to support executives in making well informed decisions.
 
 🔧 Tools & Languages:
