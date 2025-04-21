@@ -1,6 +1,6 @@
 # 📊 Data Analyst Portfolio – Sven Friedel
 
-Welcome! This repository bundles my data projects build on diffrent stacks and platforms into one github page.
+Welcome! This repository bundles my data projects build on diffrent stacks and platforms into [one github page](https://sven-friedel.github.io/).
 
 ---
 
